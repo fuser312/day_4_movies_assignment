@@ -46,7 +46,7 @@ class _MoviesState extends State<Movies> {
           color: Colors.black87,
           child: Center(
             child: Padding(
-              padding: const EdgeInsets.all(15.0),
+              padding: const EdgeInsets.all(16.0),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
