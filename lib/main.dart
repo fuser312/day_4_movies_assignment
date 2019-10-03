@@ -51,7 +51,7 @@ class _MoviesState extends State<Movies> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Expanded(
-                    flex: 10,
+                    flex: 88,
                     child: Image(
 //                height: 300,
 //                width: 300,
@@ -59,7 +59,7 @@ class _MoviesState extends State<Movies> {
                     ),
                   ),
                   Expanded(
-                    flex: 1,
+                    flex: 8,
                     child: Card(
                       color: Colors.yellow,
                       child: FlatButton(
